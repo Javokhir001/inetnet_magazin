@@ -1,0 +1,102 @@
+body {
+  background-color: #fafafa;
+  font-family: 'Roboto', sans-serif; }
+  body .navbar .container .row .dropdown-menu .card .card-body a img {
+    width: 100px;
+    margin: 0 auto 5px;
+    display: block;
+    border-radius: 12.5rem;
+    background-clip: padding-box;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.2); }
+  body .container .row .col-12 button:hover {
+    color: #28a745;
+    background-color: #fff; }
+  body .container .row .col-3 .card .card-body {
+    padding: 20px 0; }
+    body .container .row .col-3 .card .card-body .sabzavot {
+      background-color: #0b2e13; }
+    body .container .row .col-3 .card .card-body a {
+      color: black;
+      font-weight: 400;
+      font-size: 13px; }
+    body .container .row .col-3 .card .card-body span {
+      font-size: 12px;
+      padding-top: 10px;
+      margin-right: 10px; }
+    body .container .row .col-3 .card .card-body img {
+      width: 22px;
+      margin-right: 1rem;
+      max-width: 100%;
+      height: auto;
+      min-height: 22px;
+      display: inline-block;
+      vertical-align: middle;
+      padding: .1875rem 0; }
+  body .container .row .d-flex {
+    justify-content: center; }
+    body .container .row .d-flex h5 {
+      font-size: 1rem; }
+    body .container .row .d-flex .barchasi {
+      background-color: #ebf5ee;
+      border: 1px solid transparent;
+      border-radius: 5px;
+      font-size: 1rem; }
+    body .container .row .d-flex .barchasi:hover {
+      border: 1px solid black;
+      color: #28a745; }
+  body .container .row .col-8 {
+    color: black;
+    padding: 10px 0; }
+  body .container .col-2 a .card {
+    position: relative;
+    border-radius: 0;
+    height: 320px;
+    font-size: .75rem;
+    line-height: 1rem;
+    overflow-y: hidden;
+    background-color: #fff;
+    box-shadow: 1px 0 0 0 #eee, 0 1px 0 0 #eee, 1px 1px 0 0 #eee, inset 1px 0 0 0 #eee, inset 0 1px 0 0 #eee; }
+    body .container .col-2 a .card .card-body {
+      padding-bottom: 5px; }
+      body .container .col-2 a .card .card-body h4 {
+        color: #455463;
+        font-size: .875rem;
+        line-height: 1rem;
+        height: 3.125rem;
+        overflow: hidden;
+        display: block;
+        margin-top: .9375rem;
+        margin-bottom: .3125rem;
+        padding-left: 0; }
+      body .container .col-2 a .card .card-body h6 {
+        font-size: 1.125rem;
+        color: #00a13c;
+        font-weight: 500;
+        display: block; }
+        body .container .col-2 a .card .card-body h6 span {
+          font-size: .625rem;
+          color: #ccc; }
+      body .container .col-2 a .card .card-body button:hover {
+        color: white;
+        background-color: #28a745; }
+      body .container .col-2 a .card .card-body button {
+        font-size: 13px;
+        font-weight: 400;
+        background-size: auto 15px;
+        color: #28a745;
+        margin-top: 10px;
+        opacity: 0; }
+  body .container .col-2 a .card:hover button {
+    opacity: 1; }
+  body .container .col-2 .skitka {
+    background-color: red;
+    color: white;
+    width: 47px;
+    height: 22px;
+    position: absolute;
+    top: 10px;
+    left: 0; }
+    body .container .col-2 .skitka p {
+      font-weight: 400; }
+
+/*# sourceMappingURL=styles.css.map */
